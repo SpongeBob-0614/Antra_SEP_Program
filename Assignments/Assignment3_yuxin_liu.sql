@@ -163,4 +163,7 @@ WHERE es.OrderCount = (
 
 --11)How do you remove the duplicates record of a table?
 
---Remove duplicate records of a table using Common Table Expressions CTE, ROW_NUMBER Function and the RANK Function
+-- A: We can remove duplicates record by using Common Table Expressions CTE, ROW_NUMBER Function() or the RANK Function
+
+--varchar vs nvarchar
+--A: VARCHAR is suitable for non-Unicode character data. NVARCHAR is necessary for storing Unicode character data. It allows multilingual support but requires more storage space per character.
