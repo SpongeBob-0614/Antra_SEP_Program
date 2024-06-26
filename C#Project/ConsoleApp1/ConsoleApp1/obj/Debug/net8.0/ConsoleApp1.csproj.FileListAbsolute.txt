@@ -1,0 +1,15 @@
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\PersonalProject\Antra_SEP_Program\C#Project\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
