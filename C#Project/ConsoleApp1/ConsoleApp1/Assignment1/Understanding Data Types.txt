@@ -1,0 +1,48 @@
+﻿1. What type would you choose for the following “numbers”?
+A person’s telephone number
+A person’s height
+A person’s age
+A person’s gender (Male, Female, Prefer Not To Answer)
+A person’s salary
+A book’s ISBN
+A book’s price
+A book’s shipping weight
+A country’s population
+The number of stars in the universe
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+
+Answer: For phone number, I would choose String or varchar because it is usually numbers but sometimes has special characters such as dashes(-).
+For height, I would use float or double because it sometimes contains decimals.
+For age, I would use integer.
+For gender I would use Enum or String.
+For salary I would use decimal.
+For a book's ISBN I would use String or varchar because it contains characters and numbers.
+For a book's price I would use decimal because It may be used in future calculation in money.
+For a book's shipping weight I would use float or double.
+For a country's population I would use long because it is usually a big number.
+For the number of stars in the universe I would use ulong
+For the number of employees in each of the small or medium businesses in the United Kingdom I would use int.
+
+
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+
+Answer: 
+For value type vs reference type:
+1. Value type will directly hold the value while reference type will hold the memory address or reference for the value. 
+2. Value types are stored in stack memory and reference types are stored in heap memory. 
+3. Value type will not be collected by garbage collector but reference type will be collected by garbage collector. 
+4. The value type can be created by struct or enum while reference type can be created by class, interface, delegate or array.
+5. Value type can not accept any null values while reference types can accept null values.
+
+For boxing and unboxing:
+Boxing is conversion of value type to reference type and unboxing is conversion of reference type to value type. 
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+
+Answer: For managed resources, it can be thrown in the garbage collector while unmanaged resources can't be.
+
+4. What's the purpose of Garbage Collector in .NET?
+
+Answer: To throw out important data that could cause data leaks
